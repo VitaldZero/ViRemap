@@ -1,4 +1,4 @@
-# remap1
+# общая информация
 Remap Controller
 
 Xinput
